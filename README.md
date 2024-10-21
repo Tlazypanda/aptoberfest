@@ -68,6 +68,9 @@ Looking for inspiration? Check out these exciting project possibilities:
 - 🌐 [Aptos Ecosystem Projects](https://aptosfoundation.org/ecosystem/projects/all) - Explore existing projects in the Aptos ecosystem
 - 🎲 [Aptos RaNd0M Hack](https://taikai.network/aptos/hackathons/aptos-random-hack/projects) - Projects from the randomness hackathon
 
+## 💡 Opensource Community Projects
+- [Habit Tracker](https://github.com/Tlazypanda/aptos-habit-tracker)
+
 ### 🚀 Themed Project Ideas
 - 🤝 Social and Community-Driven Projects
 - 🎮 Gaming and NFTs
