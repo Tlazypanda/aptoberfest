@@ -4,7 +4,7 @@
 [![Aptos](https://img.shields.io/badge/Blockchain-Aptos-blue.svg)](https://aptos.dev/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/aptoberfest/issues)
 
-Welcome to Aptoberfest, your one-stop shop for all things Aptos during Hacktoberfest 2024! 🚀 This repository aims to be a comprehensive resource for developers looking to learn about and build on the Aptos blockchain.
+Welcome to Aptoberfest, your one-stop shop for all things Aptos 🚀 This repository aims to be a comprehensive resource for developers looking to learn about and build on the Aptos blockchain.
 
 ## 📚 Table of Contents
 - [Introduction](#-introduction)
